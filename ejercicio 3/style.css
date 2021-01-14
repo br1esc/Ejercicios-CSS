@@ -1,0 +1,15 @@
+.menu1 {
+    background-color: black;
+    color: white;
+    list-style: none;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly ;
+    height: 50px;
+    align-items:center;
+}
+.menu1 li:hover {
+    color: pink;
+
+}
